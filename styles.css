@@ -1,0 +1,38 @@
+body {
+	/*background-color: black;*/
+	background-image: url("http://orig01.deviantart.net/ed16/f/2015/134/e/3/overwatch___tracer_wallpaper_by_mikoyanx-d8t8ofg.png");
+	color: #fff;
+}
+
+a{
+	color: #fff;
+	text-decoration: none;
+}
+#chars {
+	font-size: 40px;
+}
+
+.second-element{
+	/*font-family: "Impact";
+	text-transform: uppercase;*/
+
+}
+
+.section {
+	width: 50%;
+	/*background-color: red;*/
+
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+
+	text-align: center;
+
+	padding: 10px 20px;
+
+}
+
+.Overwatch {
+	text-transform: uppercase;
+	font-size: 30px;
+}
